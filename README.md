@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Adock90
-- 👀 I’m interested in Image Recognition and Machine Learning
-- 🌱 I’m currently learning Python, Javascript, C++, C and Haskell
+- Likes C and C++. Does a bit of Python
+- Enjoys doing system level programming but most are not ready for Github (YET)
+- Does a bit of web dev in JS
 
 <!---
 Adock90/Adock90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
