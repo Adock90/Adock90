@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adock90
+- bit generic
 - Likes C and C++. Does a bit of Python
 - Enjoys doing system level programming but most are not ready for Github (YET)
 - Does a bit of web dev in JS
